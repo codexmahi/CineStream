@@ -18,9 +18,9 @@ const getNowPlayingMovies= async()=> {
    dispatch(addNowPlayingMovies(json.results));
   };
 
-  useEffect (()=>{
+  useEffect(() => {
     getNowPlayingMovies();
-  },[])
+  }, []);
 }
 
 export default useNowPlayingMovies;

@@ -20,7 +20,7 @@ const getPopularMovies= async()=> {
 
   useEffect (()=>{
     getPopularMovies();
-  },[])
+  },[]);
 }
 
 export default usePopularMovies;;

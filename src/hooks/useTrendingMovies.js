@@ -20,7 +20,7 @@ const getTrendingMovies= async()=> {
 
   useEffect (()=>{
     getTrendingMovies();
-  },[])
+  },[]);
 }
 
-export default useTrendingMovies;;
+export default useTrendingMovies;
