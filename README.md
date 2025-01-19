@@ -54,5 +54,5 @@ Hey there! 👋 Welcome to the **React Movie App** project. This app is built wi
 31. **Build Movie Card**
 32. **Added Movies and TV Shows**
 
-Thanks for checking out this project! If you have any questions or feedback, feel free to reach out. Happy coding! 🚀
+Thanks for checking out this project!
 
